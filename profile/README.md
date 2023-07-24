@@ -15,6 +15,7 @@ AZD is an innovative JetBrains IDE plugin created to streamline your Azure DevOp
 This plugin integrates with your Azure Devops account directly into your IDE. Giving you full control over Azure DevOps pull requests, all within your coding environment. No more context switching, just pure productivity.
 
 ![alt AZD](azd.svg)
+
 [Preview and Installation](https://plugins.jetbrains.com/plugin/22319)
 
 ### GIdeaBrowser
@@ -22,6 +23,7 @@ This plugin integrates with your Azure Devops account directly into your IDE. Gi
 The GIdeaBrowser plugin includes a built-in web browser, eliminating the need for switching between different applications while working on web-related tasks. It improves productivity by providing a seamless web browsing experience right within your IDE.
 
 ![alt AZD](gideabrowser.svg)
+
 [Preview and Installation](https://plugins.jetbrains.com/plugin/14458)
 
 ### QueryFlag
@@ -29,4 +31,5 @@ The GIdeaBrowser plugin includes a built-in web browser, eliminating the need fo
 With the QueryFlag plugin, you can define and execute template-based queries on selected text, making it easy to replace a single query parameter from within your editor. By following a few simple steps, you can streamline your workflow and improve productivity.
 
 ![alt AZD](queryflag.svg)
+
 [Preview and Installation](https://plugins.jetbrains.com/plugin/18269)
