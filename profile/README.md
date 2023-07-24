@@ -22,7 +22,9 @@ This plugin integrates with your Azure Devops account directly into your IDE. Gi
 
 The GIdeaBrowser plugin includes a built-in web browser, eliminating the need for switching between different applications while working on web-related tasks. It improves productivity by providing a seamless web browsing experience right within your IDE.
 
-![alt AZD](gideabrowser.svg)
+![alt GIdeaBrowser](gideabrowser.svg)
+
+![alt GIdeaBrowser2](https://raw.githubusercontent.com/edgafner/repository/.github/profile/gideabrowser.svg)
 
 [Preview and Installation](https://plugins.jetbrains.com/plugin/14458)
 
@@ -30,6 +32,6 @@ The GIdeaBrowser plugin includes a built-in web browser, eliminating the need fo
 
 With the QueryFlag plugin, you can define and execute template-based queries on selected text, making it easy to replace a single query parameter from within your editor. By following a few simple steps, you can streamline your workflow and improve productivity.
 
-![alt AZD](queryflag.svg)
+![alt QueryFlag](queryflag.svg)
 
 [Preview and Installation](https://plugins.jetbrains.com/plugin/18269)
