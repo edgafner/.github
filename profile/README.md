@@ -46,10 +46,6 @@ parameter from within your editor.
 
 [Preview and Installation](https://plugins.jetbrains.com/plugin/18269)
 
----
-
-
-<a href="https://www.facebook.com/dorkaag"><img src="https://raw.githubusercontent.com/edgafner/.github/main/profile/dorkag.svg" alt="Facebook" width="20"></a>
 
 ---
 
