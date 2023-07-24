@@ -24,7 +24,7 @@ The GIdeaBrowser plugin includes a built-in web browser, eliminating the need fo
 
 ![alt GIdeaBrowser](gideabrowser.svg)
 
-![alt GIdeaBrowser2](https://raw.githubusercontent.com/edgafner/repository/.github/profile/gideabrowser.svg)
+![alt GIdeaBrowser2](https://raw.githubusercontent.com/edgafner/.github/profile/gideabrowser.svg)
 
 [Preview and Installation](https://plugins.jetbrains.com/plugin/14458)
 
