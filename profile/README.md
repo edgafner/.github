@@ -1,6 +1,6 @@
 # Dorkag
 
-We build IDE plugins for JetBrains to boost developer productivity. Our plugins include GideaBrowser, QueryFlag, and AZD, designed to
+We build IDE plugins for JetBrains to boost developer productivity. Our plugins include GBROWSER, QueryFlag, and AZD, designed to
 streamline workflow and simplify coding. With years of experience, we understand the challenges of software development and aim to make the
 process easier and more efficient for our users.
 
@@ -24,8 +24,8 @@ Whether you're a beginner or an experienced developer, our plugins are tailored 
 
 ---
 <p>
-  <img src="https://raw.githubusercontent.com/edgafner/.github/main/profile/gideabrowser.svg" alt="GIdeaBrowser"  width="50px">
-  <br> The <strong>GIdeaBrowser</strong> plugin includes a built-in web browser, eliminating the need for switching between different applications while working on
+  <img src="https://raw.githubusercontent.com/edgafner/.github/main/profile/gbrowser.svg" alt="GBrowser"  width="50px">
+  <br> The <strong>GBROWSER</strong> plugin includes a built-in web browser, eliminating the need for switching between different applications while working on
 web-related tasks. 
 <br>It improves productivity by providing a seamless web browsing experience right within your IDE.
 </p>
