@@ -1,50 +1,89 @@
-# Dorkag
+# Dorkag Plugins
 
-We build IDE plugins for JetBrains to boost developer productivity. Our plugins include GBROWSER, QueryFlag, and AZD, designed to
-streamline workflow and simplify coding. With years of experience, we understand the challenges of software development and aim to make the
-process easier and more efficient for our users.
+----
+![AZD](./azd.svg)
 
-[Visit our webpage](https://www.dorkag.com)
+**AZD**
 
----
+[![codecov](https://codecov.io/gh/edgafner/azuredevops/graph/badge.svg?token=oBXHTWYiab)](https://codecov.io/gh/edgafner/azuredevops)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22319-azd.svg)](https://plugins.jetbrains.com/plugin/22319-azd)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22319-azd.svg)](https://plugins.jetbrains.com/plugin/22319-azd)
 
-## Plugins
+Azure DevOps Pull Request and Pipeline integration in your IDE
 
-Whether you're a beginner or an experienced developer, our plugins are tailored to help you achieve your goals with greater ease and speed.
+Links:
 
----
-<p>
-  <img src="https://raw.githubusercontent.com/edgafner/.github/main/profile/azd.svg" alt="AZD"  width="50px">
-  <br> <strong>AZD</strong> is an innovative JetBrains IDE plugin created to streamline your Azure DevOps pull request workflows.
-  <br>This plugin integrates with your Azure Devops account directly into your IDE. Giving you full control over Azure DevOps pull requests, all within your coding environment. No more context switching, just pure productivity.
-</p>
+- [Marketplace](https://plugins.jetbrains.com/plugin/22319-azd)
+- [Documentation](https://edgafner.github.io/azd.html)
+- [GitHub Issues](https://github.com/edgafner/dorkag/issues)
 
+-----
+![GBrowser](./gbrowser.svg)
 
-[Preview and Installation](https://plugins.jetbrains.com/plugin/22319)
+**GBrowser**
 
----
-<p>
-  <img src="https://raw.githubusercontent.com/edgafner/.github/main/profile/gbrowser.svg" alt="GBrowser"  width="50px">
-  <br> The <strong>GBROWSER</strong> plugin includes a built-in web browser, eliminating the need for switching between different applications while working on
-web-related tasks. 
-<br>It improves productivity by providing a seamless web browsing experience right within your IDE.
-</p>
+[![Build](https://github.com/edgafner/GBrowser/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/edgafner/GBrowser/actions/workflows/build.yml)
+[![Run UI Tests](https://github.com/edgafner/GBrowser/actions/workflows/run-ui-tests.yml/badge.svg?branch=main)](https://github.com/edgafner/GBrowser/actions/workflows/run-ui-tests.yml)
+[![Codecov](https://codecov.io/github/edgafner/GBrowser/branch/main/graph/badge.svg?token=FNLVYK2SJY)](https://codecov.io/github/edgafner/GBrowser)
+[![Version](https://img.shields.io/jetbrains/plugin/v/14458-gbrowser.svg)](https://plugins.jetbrains.com/plugin/14458-gbrowser)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/14458-gbrowser.svg)](https://plugins.jetbrains.com/plugin/14458-gbrowser)
 
+An Embedded Browser in the IDE
 
-[Preview and Installation](https://plugins.jetbrains.com/plugin/14458)
+Links:
 
+- [Marketplace](https://plugins.jetbrains.com/plugin/14458-gbrowser)
+- [Documentation](https://edgafner.github.io/gbrowser.html)
+- [GitHub Issues](https://github.com/edgafner/dorkag/issues)
 
----
+----
+![Codecov](./codecov.svg)
 
-<p>
-  <img src="https://raw.githubusercontent.com/edgafner/.github/main/profile/queryflag.svg" alt="QueryFlag"  width="50px">
-  <br> With the <strong>QueryFlag</strong> plugin, you can define and execute template-based queries on selected text, making it easy to replace a single query
-parameter from within your editor. 
-<br>By following a few simple steps, you can streamline your workflow and improve productivity.
-</p>
+**Codecov**
 
+[![Version](https://img.shields.io/jetbrains/plugin/v/23390-codecov)](https://plugins.jetbrains.com/plugin/23390-codecov)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/23390-codecov)](https://plugins.jetbrains.com/plugin/23390-codecov)
 
-[Preview and Installation](https://plugins.jetbrains.com/plugin/18269)
+Validates your codecov configuration in the IDE.
+
+Links:
+
+- [Marketplace](https://plugins.jetbrains.com/plugin/23390-codecov)
+- [Documentation](https://edgafner.github.io/codecov.html)
+- [GitHub Issues](https://github.com/edgafner/dorkag/issues)
+
+----
+
+![QueryFlag](./queryflag.svg)
+
+**QueryFlag**
+
+[![codecov](https://codecov.io/github/edgafner/QueryFlag/branch/main/graph/badge.svg?token=QEXYCT82WI)](https://codecov.io/github/edgafner/QueryFlag)
+[![Version](https://img.shields.io/jetbrains/plugin/v/18269-queryflag.svg)](https://plugins.jetbrains.com/plugin/18269-queryflag)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/18269-queryflag.svg)](https://plugins.jetbrains.com/plugin/18269-queryflag)
+
+evaluate DataBase values from selected text with template queries:
+
+- [Marketplace](https://plugins.jetbrains.com/plugin/18269-queryflag)
+- [Documentation](https://edgafner.github.io/queryflag.html)
+- [GitHub Issues](https://github.com/edgafner/dorkag/issues)
+
+----
+![Run Like Me](./runlikeme.svg)
+
+**Run Like Me**
+
+[![codecov](https://codecov.io/gh/edgafner/run-like-me/graph/badge.svg?token=xtj6ZI4lWy)](https://codecov.io/gh/edgafner/run-like-me)
+[![Version](https://img.shields.io/jetbrains/plugin/v/24906-run-like-me.svg)](https://plugins.jetbrains.com/plugin/24906-run-like-me)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/24906-run-like-me.svg)](https://plugins.jetbrains.com/plugin/24906-run-like-me)
+
+Share template run configurations with your team:
+
+Links:
+
+- [Marketplace](https://plugins.jetbrains.com/plugin/24906-run-like-me)
+- [Documentation](https://edgafner.github.io/runlikeme.html)
+- [GitHub Issues](https://github.com/edgafner/dorkag/issues)
 
 
 ---
