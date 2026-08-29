@@ -68,24 +68,6 @@ evaluate DataBase values from selected text with template queries:
 - [Documentation](https://edgafner.github.io/queryflag.html)
 - [GitHub Issues](https://github.com/edgafner/dorkag/issues)
 
-----
-![Run Like Me](./runlikeme.svg)
-
-**Run Like Me**
-
-[![codecov](https://codecov.io/gh/edgafner/run-like-me/graph/badge.svg?token=xtj6ZI4lWy)](https://codecov.io/gh/edgafner/run-like-me)
-[![Version](https://img.shields.io/jetbrains/plugin/v/24906-run-like-me.svg)](https://plugins.jetbrains.com/plugin/24906-run-like-me)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/24906-run-like-me.svg)](https://plugins.jetbrains.com/plugin/24906-run-like-me)
-
-Share template run configurations with your team:
-
-Links:
-
-- [Marketplace](https://plugins.jetbrains.com/plugin/24906-run-like-me)
-- [Documentation](https://edgafner.github.io/runlikeme.html)
-- [GitHub Issues](https://github.com/edgafner/dorkag/issues)
-
-
 ---
 
 [Term of Services](https://dorkag.com/services-terms-and-conditions)
